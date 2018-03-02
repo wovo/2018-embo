@@ -10,6 +10,14 @@ To start with the workshop using a Windows PC:
   - after some activity in the lower part of the IDE window 
     the LED on the Arduino board should start blinking
 
+Recommended:
+  - a good text editor, my preference is UltraEdit
+
+When last-minute or even on-the-spot changes are made, 
+those are made available through github.
+To update, execute the "git pull" command inside the specific library
+(2018-embo, bmptk, hwcpp, hwlib), or double-click the _pull.bat. 
+
 FYI, the zip 
   - adds the libraries and examples from github.com/wovo
     (2018-embo, bmptk, hwcpp, hwlib)
