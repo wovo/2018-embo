@@ -1,1 +1,0 @@
-Arduino examples (sketches) for the 2018 emBO++ embedded workshop
